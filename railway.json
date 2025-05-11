@@ -1,7 +1,5 @@
 {
   "build": {
-    "scripts": {
-      "start": "./start.sh"
-    }
+    "start": "sh start.sh"
   }
 }
