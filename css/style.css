@@ -10362,7 +10362,7 @@ body {
   left: 0;
   height: 100%;
   width: 100%;
-  background-image: url('/clark-master/images/fragmented-cybersecurity-jpg.png'); /* 🔁 Replace with your image path */
+  background-image: url('/images/fragmented-cybersecurity-jpg.png'); /* 🔁 Replace with your image path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
